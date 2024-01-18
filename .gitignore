@@ -1,0 +1,16 @@
+Flowcharts.png
+HLD_document.docx
+app.py
+config/
+main.py
+param.yaml
+requirement.txt
+research/
+schema.yaml
+setup.py
+src/
+template.py
+templates/
+
+# ~$HLD.docx
+# ~WRL0003.tmp
