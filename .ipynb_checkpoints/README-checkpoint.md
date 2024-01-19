@@ -3,8 +3,9 @@
 
 *Approach:*
 * Reqirement installation & project set up -
-For this project what packages we are using,we will write in *requirement.txt* file.
-
+/// bash
+"conda create -n mlproject python=3.8 -y"
+///
 
 Web Deployment
 Deployed on web :
